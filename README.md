@@ -1,3 +1,4 @@
+![alt tag](https://github.com/AlexanderNorton/Project-FarmIT/blob/video/FarmIT%20Poster.jpg?raw=true)
 # FarmIT
 FarmIT is a mobile app for farmers - enabling safe and responsive farm management at your fingertips.
 
